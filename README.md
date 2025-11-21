@@ -31,10 +31,10 @@ sudo apt update
 sudo apt install build-essential
 ```
 
-Clone the repository (if using GitHub):
+Clone the repository :
 
 ```bash
-git clone <repo-url>
+git clone <your-github-repo-link>
 cd Lab5
 ```
 
