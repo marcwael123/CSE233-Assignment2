@@ -88,7 +88,3 @@ Feel free to improve code examples or add more demonstrations of process managem
 ## 📜 License
 
 This project is open-source and licensed under the MIT License. See the LICENSE file for details.
-
----
-
-This README follows the modern structure and is easy to read, just like on **makereadme.com**.
